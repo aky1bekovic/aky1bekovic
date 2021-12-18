@@ -1,0 +1,100 @@
+.page-light {
+    background-color: #F9F6F1;
+}
+.wrapper {
+    max-width: 1110px;
+    margin: 0 auto;
+    background-color: blueviolet;
+}
+.menu {
+    display: flex;
+    align-items: center;
+    padding:35px 0 0 45px;
+}
+.navbar {
+    display: flex;
+    list-style-type: none;
+}
+     /**nav__style**/
+.nav__list {
+    display: flex;
+    list-style-type: none;
+}
+     
+.nav__list  a {
+    text-decoration: none;
+    color: black;
+    font-family: Montserrat medium;
+    margin-right: 50px;
+    font-size: 14px;
+}
+    /**nav__style-sec**/
+.nav__list-sec {
+    display: flex;
+    list-style-type: none;
+}
+      
+.nav__list-sec a {
+    text-decoration: none;
+    color: black;
+    font-family: Montserrat medium;
+    margin-right: 40px;
+    font-size: 14px;
+}
+
+.cart span{
+    background-image: url(../img/Group.svg);
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: 0 center;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 12px 24px;
+    display: block;
+}
+
+.cart {
+    background-image: url(../img/card.svg);
+    background-repeat: no-repeat;
+    padding-left: 45px;
+}
+
+.sale {
+    padding-bottom: 130px;
+}
+
+.sale p{
+    font-family: Montserrat Regular;
+}
+
+.sale h1 {
+    font-family: Montserrat;
+}
+
+.sale a {
+    font-family: Montserrat medium;
+    text-decoration: none;
+    background-color: #D7B399;
+    padding: 10px 24px;
+}
+
+.second__blok{
+    display: flex;
+    padding-left: 82px;
+    padding-top: 100px;
+}
+
+.blok-b {
+    padding-left: 100px;
+    padding-top: 22px;
+}
+
+.price {
+    padding-left: 400px;
+}
+
+.old__price {
+    font-family: Montserrat medium;
+
+}
+
