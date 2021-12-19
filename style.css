@@ -1,0 +1,284 @@
+.wrapper {
+    background-color: #F9F6F1;
+}
+.row {
+    padding-top: 15px;
+    align-items: center;
+}
+.list {
+    display: flex;
+    list-style-type: none;
+}
+
+.logo {
+    margin-left: 20px;
+    padding-bottom: 12px;
+}
+.list a {
+    color: black;
+    text-decoration: none;
+    margin: 30px;
+    
+}
+
+.list a img {
+    margin-left: 5px;
+}
+.link {
+    display: flex;
+    list-style-type: none;
+}
+
+.link a {
+    color: black;
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+.cart {
+    margin-left: 30px;
+    display: flex;
+    margin-bottom: 20px;
+}
+ .cart p {
+     background-color: #D7B399;
+     padding: 0px 20px;
+     margin-top: 20px;
+     margin-left: 10px;
+ }
+
+ .sale {
+     margin-left: 50px;
+ }
+ .sale p {
+     font-family: Montserrat regular;
+     font-size: 30px;
+ }
+
+ .sale h1 {
+     font-family: Montserrat medium;
+     font-size: 55px;
+     margin-bottom: 40px;
+ }
+
+ .sale a{
+     background-color: #D7B399;
+     text-decoration: none;
+     color: white;
+     padding: 18px 30px;
+ }
+
+ .price {
+     padding-right: 100px;
+     padding-bottom: 40px;
+ }
+
+ .shoes {
+     padding-top: 60px;
+ }
+
+ .price strike {
+     font-family: Montserrat medium;
+     color: black;
+     font-size: 27px;
+     padding-left: 45px;
+ }
+
+ .price p {
+     font-size: #9F564F;
+     font-family: Montserrat medium;
+     font-size: 45px;
+     color: #9F564F;
+ }
+
+ #rectangle {
+     width: 40px;
+     height: 7px;
+     background: #CECECE;
+     display: inline-block;
+     align-items: center;
+ }
+ #rectangle-2 {
+    width: 40px;
+    height: 7px;
+    background: #D7B399;
+    display: inline-block;
+    align-items: center;
+ }
+ .slider {
+    margin-top: 100px;
+    padding-left:550px;
+    padding-bottom: 50px;
+ }
+
+ .delivery {
+     background-color: black;
+     text-align: center;
+     padding: 35px;
+ }
+
+ .delivery h5 {
+     font-family: Montserrat;
+     color: white;
+     font-size: 30px;
+ }
+
+ .zag {
+    font-family: Montserrat light;
+    color: white;
+    font-size: 21px;
+ }
+
+ .man {
+     padding-left: 60px;
+ }
+
+ .man h4{
+    font-family: montserrat medium;
+ }
+
+ .man p{
+    font-family: montserrat  light;
+ }
+
+ .man a{
+    background-color: #D7B399;
+    /* padding: 3px 30px; */
+ }
+ .man a{
+    background-color: #D7B399;
+    padding: 2px 30px;
+ }
+
+ .man a img{
+     align-items: center;
+     padding-bottom: 5px;
+ }
+
+ 
+.woman h4{
+   font-family: montserrat medium;
+}
+
+.woman p{
+   font-family: montserrat  light;
+}
+
+.woman a{
+   background-color: #D7B399;
+}
+.woman a{
+   background-color: #D7B399;
+   padding: 2px 30px;
+}
+
+.woman a img{
+    align-items: center;
+    padding-bottom: 5px;
+}
+
+
+.collection {
+    padding-left: 60px;
+}
+
+.text {
+    font-family: montserrat medium;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    padding: 100px;
+}
+.cards {
+    padding-left: 60px;
+}
+.arrow {
+    margin-top: 90px;
+    margin-left: 540px;
+    margin-bottom: 150px;
+}
+.arrow a {
+    background-color: #D7B399;
+    text-decoration: none;
+    font-family: montserrat light;
+    font-size: 16px;
+    padding: 18px 45px;
+    color: white;
+}
+
+#container {
+    background-color: black;
+}
+
+
+
+.logo-foot {
+    padding: 40px;
+}
+
+.foot-container {
+    background-color: black;
+}
+.lorem {
+    font-family: montserrat medium;
+    font-size: 15px;
+    color: #CBCFD4;
+    padding: 50px;
+}
+.foot p{
+    font-family: montserrat medium;
+    font-size: 15px;
+    color: #CBCFD4;
+    padding: 5px;
+}
+
+.foot li {
+    list-style-type: none;
+    padding: 5px;
+}
+
+.foot li a {
+    font-family: montserrat medium;
+    font-size: 15px;
+    list-style-type: none;
+    text-decoration: none;
+    color: #CBCFD4;
+}
+
+.copyright {
+    background-color: white;
+    padding-right: 60px;
+    padding-left: 60px;
+}
+
+
+.f-container {
+    background-color: black;
+    padding: 35px;
+}
+
+.get-sale {
+    font-family: montserrat medium;
+    font-size: 30px;
+    color: white;
+    padding-left: 140px;
+}
+
+input {
+    width: 300px;
+}
+
+.follow-me {
+    margin-left: -90px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 1108px) {
+
+}
+
